@@ -2,7 +2,7 @@
     "name": "yiikit/develop",
     "description": "Develop",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","kit"],
+    "keywords": ["yiikit","kit","yii2","extension"],
     "license": "BSD-3-Clause",
     "authors": [
         {
